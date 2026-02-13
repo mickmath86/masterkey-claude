@@ -352,8 +352,8 @@ function Technology() {
               <div
                 className="absolute inset-0 opacity-5"
                 style={{
-                  backgroundImage: `linear-gradient(rgba(200,162,60,0.3) 1px, transparent 1px),
-                                    linear-gradient(90deg, rgba(200,162,60,0.3) 1px, transparent 1px)`,
+                  backgroundImage: `linear-gradient(rgba(14,165,233,0.3) 1px, transparent 1px),
+                                    linear-gradient(90deg, rgba(14,165,233,0.3) 1px, transparent 1px)`,
                   backgroundSize: "40px 40px",
                 }}
               />
@@ -393,10 +393,10 @@ function Technology() {
                   </div>
 
                   <svg className="absolute inset-0 w-full h-full" xmlns="http://www.w3.org/2000/svg">
-                    <line x1="50%" y1="50%" x2="30%" y2="25%" stroke="rgba(200,162,60,0.15)" strokeWidth="1" />
-                    <line x1="50%" y1="50%" x2="75%" y2="20%" stroke="rgba(200,162,60,0.15)" strokeWidth="1" />
-                    <line x1="50%" y1="50%" x2="25%" y2="78%" stroke="rgba(200,162,60,0.15)" strokeWidth="1" />
-                    <line x1="50%" y1="50%" x2="75%" y2="75%" stroke="rgba(200,162,60,0.15)" strokeWidth="1" />
+                    <line x1="50%" y1="50%" x2="30%" y2="25%" stroke="rgba(14,165,233,0.15)" strokeWidth="1" />
+                    <line x1="50%" y1="50%" x2="75%" y2="20%" stroke="rgba(14,165,233,0.15)" strokeWidth="1" />
+                    <line x1="50%" y1="50%" x2="25%" y2="78%" stroke="rgba(14,165,233,0.15)" strokeWidth="1" />
+                    <line x1="50%" y1="50%" x2="75%" y2="75%" stroke="rgba(14,165,233,0.15)" strokeWidth="1" />
                   </svg>
                 </div>
               </div>
